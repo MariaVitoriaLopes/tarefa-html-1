@@ -1,0 +1,43 @@
+#largura {width: 100%; height: auto;}
+
+.fundo {background: lightblue}
+
+#name 
+{ 
+    
+    color: mediumblue;
+    font-size: xx-large;
+}
+    
+.imagenscomida
+{
+    width: 249px; height: 207px; margin-left: 20px;
+}
+
+
+#larguratexto { width: 800px;}
+
+.margem 
+{ margin-left: 50px;
+}
+
+#avatar {
+
+width: 282px;
+height: 269px;
+border: 5px solid black ;
+border-radius: 50%;
+margin-top: 20px;
+}
+ #secao-apresentacao
+ {
+    display: flex;
+    align-items: center;
+    gap: 200px;
+ }
+
+ .caixa-de-fotos 
+ {
+background-color: black;
+padding: 15px;
+ }
