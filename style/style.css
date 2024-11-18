@@ -54,7 +54,9 @@ margin-left: 50px;
  height: 136px;
  background-color: black;
  color: bisque;
- text-align: center;
+ margin-top: 300px;
+display: flex;
+align-items: center;
  }
 
  
